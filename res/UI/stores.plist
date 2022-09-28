@@ -51,7 +51,7 @@
 			<key>store/back2.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1457,1904},{75,72}}</string>
+				<string>{{1587,1904},{75,72}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -73,7 +73,7 @@
 			<key>store/btn_list_noselect.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1157,1},{240,240}}</string>
+				<string>{{693,1},{240,240}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -84,7 +84,7 @@
 			<key>store/btn_list_select.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{693,1},{240,240}}</string>
+				<string>{{693,243},{240,240}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -150,7 +150,7 @@
 			<key>store/ic_ads.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1380,1981},{64,64}}</string>
+				<string>{{1510,1981},{64,64}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -172,7 +172,7 @@
 			<key>store/menu.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1380,1904},{75,75}}</string>
+				<string>{{1510,1904},{75,75}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -282,7 +282,7 @@
 			<key>store/star_half.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{693,243},{158,158}}</string>
+				<string>{{935,321},{158,158}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -293,7 +293,7 @@
 			<key>store/tem.png</key>
 			<dict>
 				<key>frame</key>
-				<string>{{1258,1904},{120,120}}</string>
+				<string>{{1388,1904},{120,120}}</string>
 				<key>offset</key>
 				<string>{0,0}</string>
 				<key>rotated</key>
@@ -377,6 +377,28 @@
 				<false />
 				<key>sourceSize</key>
 				<string>{512,512}</string>
+			</dict>
+			<key>store/multiplay.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1258,1904},{128,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,128}</string>
+			</dict>
+			<key>store/search.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1157,1},{256,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,256}</string>
 			</dict>
 		</dict>
 		<key>metadata</key>

@@ -4,7 +4,7 @@
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/funnyemulator/snes_fc/main/version.manifest",
 	"remoteDownloadUrl" : "https://raw.githubusercontent.com/funnyemulator/snes_fc/main/download.manifest",
 	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/funnyemulator/snes_fc/main/",
-	"version" : "2",
+	"version" : "1",
 	"engineVersion" : "1.0.0",
 	"assets" : {},
 	"group" : {},
